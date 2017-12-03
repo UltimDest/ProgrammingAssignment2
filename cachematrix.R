@@ -1,3 +1,6 @@
+##This is a submission for ProgrammingAssignment2
+
+## Functions makeCacheMatrix and cacheSolve  
 ## are able to cache potentially time-consuming computation of returning
 ## an inverse of a matrix if contents of a supplied vector is unchanging
 
